@@ -1,0 +1,7 @@
+newmtl Body
+Kd 0.2 0.25 0.15
+newmtl Band
+Kd 0.1 0.4 0.9
+newmtl Top
+Kd 0.4 0.4 0.4
+
