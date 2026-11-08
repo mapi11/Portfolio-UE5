@@ -39,7 +39,7 @@ Pet-проекты Technical Artist на Unreal Engine 5: VFX на Niagara, ма
 
 ### Sparks: искрящая турель
 
-![Sparks](Docs/Images/sparks_stand.png)
+![Sparks](Docs/Images/sparks_stand.gif)
 
 На подиуме стоит повреждённая турель, перекрашенная в цвета комнаты (серый корпус, синие вставки), из корпуса периодически бьют короткие разряды.
 
