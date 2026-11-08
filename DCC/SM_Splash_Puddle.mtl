@@ -1,0 +1,5 @@
+newmtl Water
+Kd 0.5 0.5 0.5
+
+newmtl Wet
+Kd 0.5 0.5 0.5
