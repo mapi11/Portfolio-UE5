@@ -1,0 +1,11 @@
+newmtl Body
+Kd 0.5 0.5 0.5
+
+newmtl Band
+Kd 0.5 0.5 0.5
+
+newmtl Fuse
+Kd 0.5 0.5 0.5
+
+newmtl Holes
+Kd 0.5 0.5 0.5
