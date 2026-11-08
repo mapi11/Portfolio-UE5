@@ -1,0 +1,11 @@
+newmtl Rubber
+Kd 0.5 0.5 0.5
+
+newmtl Accent
+Kd 0.5 0.5 0.5
+
+newmtl Alu
+Kd 0.5 0.5 0.5
+
+newmtl Gold
+Kd 0.5 0.5 0.5
