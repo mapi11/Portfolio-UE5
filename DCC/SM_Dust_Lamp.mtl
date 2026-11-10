@@ -1,0 +1,8 @@
+newmtl Shade
+Kd 0.5 0.5 0.5
+
+newmtl Inner
+Kd 0.5 0.5 0.5
+
+newmtl Bulb
+Kd 0.5 0.5 0.5
