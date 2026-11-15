@@ -20,6 +20,8 @@
 
 На каждом шаге в углу экрана меняется строка цели: "Get to the warehouse", "Fight off the guards", "Ambush! Clear the arena", "Hold the control panel by the exit", "The exit is open. Leave the warehouse".
 
+![Подсказки: строка цели и лампа на пульте, которая ждёт удержания](Images/ld_hints.png)
+
 ![Коридор: зона аварии и её цели](Images/ld_corridor.png)
 
 Весь сценарий собран из деталей набора в Details, без отдельной логики под этот уровень. Акторы сценария лежат в Outliner в папке `Gameplay/Scenario_Accident`, их имена начинаются с `B_`.
@@ -73,6 +75,8 @@
 Стрелки и подписи видны только в редакторе. У перегруженного места их можно выключить галочками bShowLinks и bShowLabel у конкретного триггера.
 
 ![Арена: засада, пульт и цепочка условий](Images/ld_arena.png)
+
+![Связи: жёлтые стрелки к целям, голубые от условий, подписи над триггерами](Images/ld_links.png)
 
 ### Как собрать типовые случаи
 
