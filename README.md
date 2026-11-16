@@ -2,9 +2,7 @@
 
 Pet-проекты Technical Artist на Unreal Engine 5: VFX на Niagara, материалы и шейдеры, оптимизация.
 
-**Максим Астраханцев** - Telegram [@mapiAP](https://t.me/mapiAP)
-
-Портфолио на Unity: [Portfolio-Unity](https://github.com/mapi11/Portfolio-Unity)
+Telegram [@mapiAP](https://t.me/mapiAP)
 
 ## Проекты
 
